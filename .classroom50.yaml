@@ -1,0 +1,7 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cldv6212"
+assignment: "cldv6212-poe"
+owner:
+  username: "KhumaloMbongeni"
+  id: 262367200
+  accepted_at: "2026-09-04T14:12:30Z"

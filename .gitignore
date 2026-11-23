@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+local.settings.json
+__azurite_db_*.json
+__blobstorage__/
+__queuestorage__/
